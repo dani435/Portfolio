@@ -3,7 +3,7 @@
 Welcome to my portfolio
 
 ## 🔷 Unreal Engine
-- [Blueprint project](https://github.com/dani435/BlueprintProject)
+- [Blueprint project](https://github.com/dani435/UnrealBlueprint)
 - [Ball Game](https://github.com/dani435/TagGame)
 
 ## 🟩 Unity
